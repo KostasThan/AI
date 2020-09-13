@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Deque;
 
 /**
- * This class has all the methods to realize the SOS 3 by 3 game
+ * This class has all the methods to realize the SOS 3 by 3 game.
  * 
  * @author Kostas
  *
