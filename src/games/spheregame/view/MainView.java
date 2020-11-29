@@ -49,7 +49,7 @@ import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
 import javax.swing.ImageIcon;
 
-
+//a comment
 /**
  * This class provides the GUI
  * @author Kostas
